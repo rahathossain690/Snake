@@ -1,7 +1,8 @@
 
 /*
-	author: S. M. Shahriar Nirjon
-	last modified: August 8, 2008
+	Used Igrapics.h
+	Rahat Hossain
+	14 - 9 - 2018
 */
 #define _CRT_SECURE_NO_WARNINGS
 # include "iGraphics.h"
